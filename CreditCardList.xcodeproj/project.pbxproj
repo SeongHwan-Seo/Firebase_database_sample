@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		522A24C9517998702E6F8C76 /* Pods_CreditCardList.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D8AEA3ECF8FD0E85D56AF50 /* Pods_CreditCardList.framework */; };
+		CF09D8FA27FC664A00BBD947 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CF09D8F927FC664A00BBD947 /* GoogleService-Info.plist */; };
 		CFECF07D27F4747E00D0A52B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFECF07C27F4747E00D0A52B /* AppDelegate.swift */; };
 		CFECF07F27F4747E00D0A52B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFECF07E27F4747E00D0A52B /* SceneDelegate.swift */; };
 		CFECF08427F4747E00D0A52B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFECF08227F4747E00D0A52B /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 		628EE414634D97335F4E7FC5 /* Pods-CreditCardList.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CreditCardList.debug.xcconfig"; path = "Target Support Files/Pods-CreditCardList/Pods-CreditCardList.debug.xcconfig"; sourceTree = "<group>"; };
 		95B1A9FBAB2EDA2D06BF57B7 /* Pods-CreditCardList.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CreditCardList.release.xcconfig"; path = "Target Support Files/Pods-CreditCardList/Pods-CreditCardList.release.xcconfig"; sourceTree = "<group>"; };
 		9D8AEA3ECF8FD0E85D56AF50 /* Pods_CreditCardList.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CreditCardList.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF09D8F927FC664A00BBD947 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		CFECF07927F4747E00D0A52B /* CreditCardList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreditCardList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFECF07C27F4747E00D0A52B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CFECF07E27F4747E00D0A52B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				CFECF08527F4747F00D0A52B /* Assets.xcassets */,
 				CFECF08727F4747F00D0A52B /* LaunchScreen.storyboard */,
 				CFECF08A27F4747F00D0A52B /* Info.plist */,
+				CF09D8F927FC664A00BBD947 /* GoogleService-Info.plist */,
 			);
 			path = CreditCardList;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				CFECF09B27F4844900D0A52B /* money.json in Resources */,
 				CFECF08427F4747E00D0A52B /* Main.storyboard in Resources */,
 				CFECF09727F4774D00D0A52B /* CardListCell.xib in Resources */,
+				CF09D8FA27FC664A00BBD947 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
